@@ -12,6 +12,7 @@
     <a href="mailto:pasha-danilevich@outlook.com">email</a> .
     <a href="https://t.me/SippingOnSomeSyrup">telegram</a> .
     <a href="https://hh.ru/resume/d7806833ff0b0d03bf0039ed1f613864685955">hh</a>
+    <a href="https://leetcode.com/u/pasha-danilevich/">leetcode</a>
   </samp>
 </div>
 
