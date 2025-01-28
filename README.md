@@ -10,10 +10,9 @@
 
 <div align="center">
   <samp>
-    <a href="https://www.kalanakt.cc/">website</a> .
-    <a href="mailto:e19198@eng.pdn.ac.lk">email</a> .
-    <a href="https://twitter.com/intent/follow?screen_name=DevVibeX">twitter</a> .
-    <a href="https://www.linkedin.com/in/kalanakt">linkedin</a>
+    <a href="mailto:pasha-danilevich@outlook.com">email</a> .
+    <a href="https://t.me/SyppingOnSomeSyrup">telegramm</a> .
+    <a href="https://hh.ru/resume/d7806833ff0b0d03bf0039ed1f613864685955">hh</a>
   </samp>
 </div>
 
