@@ -21,5 +21,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasha-danilevich&layout=compact&theme=dark" />
 </p>
 
+[![pasha-danilevich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasha-danilevich&count_private=true&show_icons=true&theme=buefy)](https://github.com/pasha-danilevich)
+[![pasha-danilevich's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pasha-danilevich&layout=compact&theme=buefy)](https://github.com/pasha-danilevich)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasha-danilevich&layout=compact&theme=buefy)](https://github.com/pasha-danilevich)
+-->
+
 
 
