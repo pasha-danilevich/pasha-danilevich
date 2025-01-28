@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pasha-danilevich&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **pasha-danilevich/pasha-danilevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
