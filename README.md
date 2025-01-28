@@ -11,7 +11,7 @@
 <div align="center">
   <samp>
     <a href="mailto:pasha-danilevich@outlook.com">email</a> .
-    <a href="https://t.me/SyppingOnSomeSyrup">telegram</a> .
+    <a href="https://t.me/SippingOnSomeSyrup">telegram</a> .
     <a href="https://hh.ru/resume/d7806833ff0b0d03bf0039ed1f613864685955">hh</a>
   </samp>
 </div>
